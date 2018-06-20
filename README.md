@@ -18,8 +18,8 @@ sudo udevadm control --reload-rules
 
 # Setup Source Tree & Build Firmware Release
 ```bash
-git clone git@github.com:caseykelso/SAME70XPLAINED-FREERTOS.git
-cd SAME70XPLAINED-FREERTOS
+git clone git@github.com:caseykelso/same70xplained-freertos.git
+cd same70xplained-freertos
 make bootstrap
 make
 ```
